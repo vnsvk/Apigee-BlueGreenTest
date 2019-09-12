@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="BlueGreenTest">
+    <Basepaths>/bluegreentest</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1568145464627</CreatedAt>
+    <CreatedBy>vikram.vunduru@qentelli.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>BlueGreenTest</DisplayName>
+    <LastModifiedAt>1568146341391</LastModifiedAt>
+    <LastModifiedBy>vikram.vunduru@qentelli.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:a4966e4bbd16bc31393337ab461236fcc673a48f212fe725906045dc3d9dfcf31f721dd64d90961232ed52dadbae895ae96e67877c343d84a5a42f91012aa770</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
